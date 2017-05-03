@@ -25,3 +25,11 @@ return:
 
 <a href='Chinese'>Chinese</a>是中国人的意思，<a href='Chinese companies'>Chinese companies</a>是什么意思? <a href='Chinese'>Chinese</a> 与 <a href='Chinese companies'>Chinese companies</a> 是什么关系？<a href='Chinese companies'>Chinese companies</a>不能代替<a href='Chinese'>Chinese</a>. <a href='United States'>United States</a>是美国，<a href='United States of America'>United States of America</a>也是美国，但<a href='United States'>United States</a>也不能代替<a href='United States of America'>United States of America</a>
 
+## test
+
+run command:
+
+1. phpunit TestMaterial
+
+2. phpunit TestHyperlink
+
